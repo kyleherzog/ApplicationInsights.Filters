@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.3</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Company>Kyle Herzog</Company>
+    <Copyright>Copyright ©  2017</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights" Version="2.4.0" />
+  </ItemGroup>
+
+</Project>

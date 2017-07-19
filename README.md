@@ -1,5 +1,7 @@
 # Application Insights Filters
 
+[![Build status](https://ci.appveyor.com/api/projects/status/u780jr8bdo907bv0?svg=true)](https://ci.appveyor.com/project/kyleherzog/applicationinsights-filters)
+
 --------------------------
 
 Library that filters telemetry being sent to Application Insights, minimizing the data storage required and allowing you to focus on the telemetry that matters to you.

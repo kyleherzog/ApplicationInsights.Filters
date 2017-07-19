@@ -6,6 +6,12 @@
     <NeutralLanguage>en-US</NeutralLanguage>
     <Company>Kyle Herzog</Company>
     <Copyright>Copyright ©  2017</Copyright>
+    <Description>Library that filters telemetry being sent to Application Insights, minimizing the data storage required and allowing you to focus on the telemetry that matters to you.</Description>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/kyleherzog/ApplicationInsights.Filters/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/kyleherzog/ApplicationInsights.Filters</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/kyleherzog/ApplicationInsights.Filters</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags />
   </PropertyGroup>
 
   <ItemGroup>

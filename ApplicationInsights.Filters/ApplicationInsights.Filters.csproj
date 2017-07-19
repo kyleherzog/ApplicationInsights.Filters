@@ -13,7 +13,6 @@
     <PackageTags />
     <Authors>Kyle Herzog</Authors>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
-    <VersionPrefix>1.1</VersionPrefix>
   </PropertyGroup>
 
   <ItemGroup>

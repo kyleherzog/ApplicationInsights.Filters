@@ -12,6 +12,7 @@
     <RepositoryUrl>https://github.com/kyleherzog/ApplicationInsights.Filters</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags />
+    <Authors>Kyle Herzog</Authors>
   </PropertyGroup>
 
   <ItemGroup>

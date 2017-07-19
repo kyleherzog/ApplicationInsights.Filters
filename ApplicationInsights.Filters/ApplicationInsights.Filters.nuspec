@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://raw.githubusercontent.com/kyleherzog/ApplicationInsights.Filters/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/kyleherzog/ApplicationInsights.Filters</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Application Insights Filters Telemetry</tags>
+  </metadata>
+</package>

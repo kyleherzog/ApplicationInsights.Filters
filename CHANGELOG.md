@@ -9,6 +9,6 @@ on NuGet.org.
 
 ## 1.0
 
-**2017-7-19**
+**2017-7-24**
 
 - [x] Initial published release

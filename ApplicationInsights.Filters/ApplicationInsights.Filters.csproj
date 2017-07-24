@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>netstandard1.3</TargetFramework>
+    <TargetFrameworks>netstandard1.3;net45;net46</TargetFrameworks>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
     <NeutralLanguage>en-US</NeutralLanguage>
     <Company>Kyle Herzog</Company>
@@ -17,5 +17,11 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.ApplicationInsights" Version="2.4.0" />
+  </ItemGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)'=='net45' OR '$(TargetFramework)'=='net46'">
+    <Reference Include="System"></Reference>
+    <Reference Include="System.Core"></Reference>
+    <Reference Include="Microsoft.CSharp"></Reference>
   </ItemGroup>
 </Project>
